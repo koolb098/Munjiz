@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>منجز</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>منجز</h1>
+        <p>منصة تربط بين الأشخاص الذين يحتاجون خدمات عن بُعد مع المستقلين المتخصصين.</p>
+    </header>
+    
+    <section id="features">
+        <h2>المزايا</h2>
+        <ul>
+            <li>التسجيل والدخول بسهولة.</li>
+            <li>إرسال العروض واختيار الأفضل.</li>
+            <li>التقييمات والمراجعات.</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>© 2025 منجز - كل الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
